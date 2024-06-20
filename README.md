@@ -22,6 +22,9 @@ Get New Version__😎✔
 - *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO USE*
 - *OTHER-WISE THE PAIR CODE WILL NOT WORK AND NOR SESSIOND ID'S*
 
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/malvinking/malvin-md-session-genarator' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ## *DEPLOYMENT METHODS*
 - ***DEPLOY ON `HEROKU` OR `RENDER` OR ANY PLATFROM YOU LIKE***
