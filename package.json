@@ -6,13 +6,13 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node malvin.js"
+    "start": "node Maher-Zubair.js"
   },
-  "author": "Malvin King",
+  "author": "Maher-Zubair",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
-    "malvin-baileys": "^6.6.5",
+    "maher-zubair-baileys": "^6.6.5",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
