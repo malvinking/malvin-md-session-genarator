@@ -3,7 +3,7 @@
 Get New Version__😎✔
   
   <p align="center">
-<a href="https://github.com/MrMasterOfc/SESSION-GENERATE/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/malvinking/malvin-md-session-genarator/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
