@@ -3,28 +3,25 @@
 Get New Version__😎✔
   
   <p align="center">
-<a href="https://github.com/malvinking/malvin-md-session-genarator/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/MrMasterOfc/SESSION-GENERATE/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/malvinking">
+<a href="https://github.com/MrMasterOfc">
     <img src="https://telegra.ph/file/c227d87605ffa07c7871c.png" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-# 👨‍💻 *SESSION MADE BY MALVIN KING * 👨‍💻
+# 👨‍💻 *SESSION MADE BY MASTER MIND* 👨‍💻
 
 
 ## *NOTE*
-- *SESSION ID GENERATOR FOR ᴍᴀʟᴠɪɴ-ᴍᴅ AND SECKTOR MD BASED BOTS*
+- *SESSION ID GENERATOR FOR X-ASENA AND SECKTOR MD BASED BOTS*
 - *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO USE*
 - *OTHER-WISE THE PAIR CODE WILL NOT WORK AND NOR SESSIOND ID'S*
 
-2. Now deploy.
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/malvinking/malvin-md-session-genarator' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ## *DEPLOYMENT METHODS*
 - ***DEPLOY ON `HEROKU` OR `RENDER` OR ANY PLATFROM YOU LIKE***
@@ -46,4 +43,4 @@ Get New Version__😎✔
     8: Enjoy
    </details>
 
-[`Helper`](https://wa.me/+263780166288?text=Session_Problem😢)
+[`Helper`](https://wa.me/+94720797915?text=Session_Problem😢)

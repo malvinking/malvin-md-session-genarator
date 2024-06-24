@@ -8,7 +8,7 @@
     "scripts": {
     "start": "node malvin.js"
   },
-  "author": "Malvin King",
+  "author": "Malvin_King",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
