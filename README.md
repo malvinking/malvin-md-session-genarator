@@ -14,7 +14,7 @@ Get New Version__😎✔
 
 
 
-# 👨‍💻 *SESSION MADE BY MASTER MIND* 👨‍💻
+# 👨‍💻 *SESSION MADE BY ᴍᴀʟᴠɪɴ ᴋɪɴɢ* 👨‍💻
 
 
 ## *NOTE*
@@ -30,6 +30,9 @@ Get New Version__😎✔
 - ***THEN DEPLOY THE REPO AND BOOM 💥***
 - ***DON'T FORGOT TO STAR THE REPO***
 
+1. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/malvinking/malvin-md-session-genarator)**
+
+
  <details close>
 <summary>HOW TO DEPLOY 👨‍💻 SESSON-GENERATER 👨‍💻</summary>
    
@@ -43,4 +46,4 @@ Get New Version__😎✔
     8: Enjoy
    </details>
 
-[`Helper`](https://wa.me/+94720797915?text=Session_Problem😢)
+[`Helper`](https://wa.me/+263780166288?text=Session_Problem😢)
